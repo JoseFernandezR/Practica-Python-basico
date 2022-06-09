@@ -11,3 +11,4 @@ En este curso aprenderás a programar en Python.
 
 --------------------------------------------------
 
+En esta práctica se aprendió a programar en el lenguaje de programación Python, todo lo que se vió fue en una forma básica.
