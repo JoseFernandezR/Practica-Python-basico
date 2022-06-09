@@ -2,7 +2,7 @@
 
 En este curso aprenderás a programar en Python.
 
-![Logo de Python](imagenes\logo-python.png)
+![Logo de Python](https://github.com/JoseFernandezR/Practica-Python-basico/blob/main/imagenes/logo-python.png)
 
 **Requisitos**
 - Python 3.6 o  superior
